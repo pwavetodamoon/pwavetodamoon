@@ -51,5 +51,5 @@
   margin-right: auto;
   width:75% ;
   grid-column: 1/-1;" 
-     src="https://github-contributor-stats.vercel.app/api?username=Pwave2k1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="auto" height="auto" />
+     src="!pwavetodamoon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pwavetodamoon&theme=vue-dark&hide_border=true" width="auto" height="auto" />
  <br>👋 Thanks for visiting 👋 
