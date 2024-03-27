@@ -36,7 +36,7 @@
   margin-right: auto;
   width:75% ;
   grid-column: 1/-1;" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pwave2k1&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="auto" height="auto" />
+     src="https://github-readme-stats.vercel.app/api?username=pwavetodamoon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="auto" height="auto" />
      
 <img style="display: block;
   margin-left: auto;
