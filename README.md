@@ -51,5 +51,5 @@
   margin-right: auto;
   width:75% ;
   grid-column: 1/-1;" 
-     src="![pwavetodamoon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pwavetodamoon&theme=vue-dark&hide_border=true)" width="auto" height="auto" />
+     src="https://github-readme-streak-stats.herokuapp.com/?user=pwavetodamoon&theme=vue-dark&hide_border=true" width="auto" height="auto" />
  <br>👋 Thanks for visiting 👋 
